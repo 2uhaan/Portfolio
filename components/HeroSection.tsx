@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-purple-600">
               Data Scientist{" "}
             </span>
-            based in Chennai, India. Working towards creating Projets that
+            based in Chennai, India. Working towards creating Projects that
             makes life easier and more fun.
           </p>
           <Link
