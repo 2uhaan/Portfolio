@@ -25,7 +25,7 @@ const HeroSection = () => {
               Data Scientist{" "}
             </span>
             based in Chennai, India. Working towards creating Projects that
-            makes life easier and more fun.
+            make life easier and more fun.
           </p>
           <Link
             to="projects"
